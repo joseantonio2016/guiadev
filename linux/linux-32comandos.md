@@ -2,6 +2,12 @@
 
 [1. pwd](#cl1)
 
+[6. pwd](#6-comando-mv)
+
+[8. pwd](#8-comando-rm)
+
+[9. pwd](#9-comando-rmdir)
+
 [30. echo](#cl30)
 
 [31. zip](#cl31)
@@ -159,7 +165,7 @@ mkdir -pv /home/imagenes/otracarpeta/otracarpeta/yotramas
 
 Crea una carpeta dentro de otra recursivamente
 
-8. __Comando rmdir__
+## 8. __Comando rmdir__
 
 La idea detrás de este comando específico es eliminar un directorio vacío y su contenido del sistema de archivos. Para hacerlo, deberá ingresar lo siguiente:
 
@@ -167,7 +173,7 @@ Ejemplo:
 
 rmdir carpeta
 
-9. __Comando rm__
+## 9. __Comando rm__
 
 El comando rm se usa en sistemas Linux para eliminar archivos y directorios. El comando se puede personalizar con una variedad de opciones, como el indicador -r, que elimina recursivamente los archivos de un directorio determinado.
 
